@@ -7,7 +7,7 @@ Install the `rails_refactor` gem with: `gem install rails_refactor`
 Rails Refactor TextMate Bundle
 ------------------------------
 
-TextMate bundle for executing the rails_refactor gem commands.
+TextMate bundle for executing the `rails_refactor` gem commands.
 
 Installation
 ============
