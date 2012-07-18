@@ -2,8 +2,6 @@ Prerequisites
 -------------
 Install the `rails_refactor` gem with: `gem install rails_refactor`
 
-**NOTE:** You may consider installing [my version](https://github.com/Tricon/rails_refactor) until its improvements are pulled into the main repo.
-
 Rails Refactor TextMate Bundle
 ------------------------------
 
